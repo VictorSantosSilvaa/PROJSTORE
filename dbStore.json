@@ -1,0 +1,78 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Memória",
+      "description": "Memória DDR4 XPG Gammix D10, 16GB (2x8GB) 3200Mhz, Black",
+      "price": 352.82,
+      "category_id": 1
+    },
+    {
+      "id": "4",
+      "name": "Kit-Upgrade",
+      "description": "AMD Ryzen 3 4100, Placa Mãe SuperFrame A520M Gaming, Memória DDR4 Kingston Fury SuperFrame RGB 8GB",
+      "price": 1224,
+      "category_id": 1
+    },
+    {
+      "id": "5",
+      "name": "Kit-Upgrade",
+      "description": "Intel Core i5 12400 e Placa Mãe Chipset B660",
+      "price": 2710,
+      "category_id": 1
+    },
+    {
+      "id": "6",
+      "name": "Memória",
+      "description": "Memória Notebook DDR4 OLOy Laptop Gaming, 8GB, 2666MHZ,",
+      "price": 350,
+      "category_id": 2
+    },
+    {
+      "id": "7",
+      "name": "Memória",
+      "description": "Memória Notebook DDR4 PNY Perfomance, 32GB , 2666MHZ",
+      "preco": 850,
+      "category_id": 2
+    },
+    {
+      "id": "8",
+      "name": "Suporte",
+      "description": "Suporte para Notebook DeepCool Multi Core X8, Ajustável, Black, Com 4 Fans",
+      "price": 220,
+      "category_id": 2
+    },
+    {
+      "id": "9",
+      "name": "Suporte de redes de computadores",
+      "description": "Suporte para Notebook DeepCool Multi Core X8, Ajustável, Black, Com 4 Fans",
+      "price": 220,
+      "category_id": 2
+    },
+    {
+      "id": "1",
+      "name": "Teclado",
+      "description": "Teclado Preto Fosco com led RGB",
+      "price": 50,
+      "category_id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "HARDWARE - DESKTOP"
+    },
+    {
+      "id": "2",
+      "name": "HARDWARE - NOTEBOOK"
+    },
+    {
+      "id": "3",
+      "name": "Periférico - DESKTOP"
+    },
+    {
+      "id": "4",
+      "name": "Periférico - NOTEBOOK"
+    }
+  ]
+}
